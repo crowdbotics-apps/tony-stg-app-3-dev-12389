@@ -104,7 +104,7 @@ export class __Blank extends React.Component {
         checked={this.state.CheckBox_21}
         onPress={nextChecked => this.setState({ CheckBox_21: nextChecked })}
       />
-      <Icon iconFont="FontAwesome Icons" name="star" style={styles.Icon_23} />
+      <Icon iconFont="FontAwesome Icons" style={styles.Icon_23} />
       <Image
         resizeMode="cover"
         source={{
